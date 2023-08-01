@@ -4,6 +4,8 @@
 
 ## Project Overview 🚀
 
+![flowchart](https://github.com/pvashish/End_to_End_Text_Summarizer/blob/main/flowchart.png)
+
 Intelligent Text Summarizer is an advanced Natural Language Processing (NLP) project that leverages Hugging Face's transformers library and pre-trained language models to generate accurate text summaries. This end-to-end pipeline is engineered to streamline the process and provide efficient text summarization solutions. With skills in NLP, Transformers - Hugging Face, Docker 🐳, PyTorch 🔥, Pipeline Development - CI/CD 🔄, Git, Python 🐍, and Google Cloud Platform (GCP) ☁️, this project promises cutting-edge technology in the realm of text summarization.
 
 ## Key Achievements 🏆
