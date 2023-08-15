@@ -14,7 +14,7 @@ Intelligent Text Summarizer is an advanced Natural Language Processing (NLP) pro
 
 - **User-Friendly Interface**: Developed a user-friendly interface for the pipeline, significantly reducing processing time for summarizing large documents. This improvement ensures a smooth and accessible experience for users, making the summarization process more efficient and effective. 📚⏱️
 
-- **Efficient Deployment and Scaling**: Leveraged GCP's managed services and Docker for efficient deployment and scaling of the solution. This optimization allows the system to handle large volumes of data seamlessly and ensures high performance even during peak loads. 🚀💨📈
+- **Efficient Deployment and Scaling**: Leveraged AWS's managed services and Docker for efficient deployment and scaling of the solution. This optimization allows the system to handle large volumes of data seamlessly and ensures high performance even during peak loads. 🚀💨📈
 
 ## How to Use 📝🔧
 
